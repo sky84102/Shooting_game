@@ -1,6 +1,7 @@
 # Shooting_game
 Pygameで作った弾幕シューティングゲーム<br>
-プログラミング練習として作成
+プログラミング練習として作成<br>
+必要ライブラリはPygame、Numpy
 
 【素材】<br>
 背景: https://sozai-good.com/illust/free-background/winter-background/38699<br>
